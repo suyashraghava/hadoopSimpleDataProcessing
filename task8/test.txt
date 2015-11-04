@@ -1,0 +1,11 @@
+mark   ASR   0   97
+mark   IRR   0   48
+mark   INF1-CG   0   63
+mark   RTN   0   53
+mark   ADS   0   67
+student   0   Abney
+mark   DAPA   0   99
+mark   PPLS   1   96
+student   1   Blake
+mark   DAPA   1   20
+mark   ASR    1   40
